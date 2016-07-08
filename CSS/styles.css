@@ -4,16 +4,22 @@
 
 /* Header & Nav */
 
-    header {
-        width: 100%;
-        height: 450px;
-        background: url(../IMG/coverphoto.png) no-repeat;
-        background-size: cover;
-        background-position: center center;
-    }
-
-
 /* Body */
+
+body {
+    background-color: black;
+}
+
+/* SVG */
+
+.logo {
+   height: 800px;
+   z-index: 0;
+}
+
+.logobox {
+    text-align: center;
+}
 
 /* Footer */
 
